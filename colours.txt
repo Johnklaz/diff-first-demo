@@ -5,6 +5,4 @@ green
 blue 
 indigo
 black
-
-22fdf86
-d6e3d31
+i love rainbow
